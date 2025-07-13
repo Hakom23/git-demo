@@ -1,8 +1,13 @@
 song song
 ms song
 2 more lines
+<<<<<<< HEAD
 oroigina
 run nigga run
 ms nigga
 	and nigga
 alaturka
+=======
+oroigina
+>>>>>>> a6910e123d952eec70ef572c887e3a9aa0faf8e4
+git yeni deneme
